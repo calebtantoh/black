@@ -233,7 +233,7 @@ padding-top: 30px;
     }
 }
 .card6{
-margin: 0;
+margin: 6px;
 height: 10vh;
 display: flex;
 justify-content: center;
@@ -241,4 +241,11 @@ align-content: center;
 border:solid #575757;
 width:100%;
 
+}
+.card7{
+margin: 6px;
+height: 10vh;
+display: flex;
+justify-content: center;
+align-content: center;
 }
